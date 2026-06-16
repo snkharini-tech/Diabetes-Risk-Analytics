@@ -61,11 +61,11 @@ Random Forest Classifier
 
 Output :
 
-Diabetes Distribution Analysis
-BMI Risk Classification
-Health Factor Analysis
-Diabetes Risk Prediction
-Data Visualizations and Insights
+Diabetes Distribution Analysis,
+BMI Risk Classification,
+Health Factor Analysis,
+Diabetes Risk Prediction,
+Data Visualizations and Insights.
 
 Conclusion :
 
