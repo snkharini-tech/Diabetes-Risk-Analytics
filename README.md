@@ -1,10 +1,10 @@
-#Diabetes Risk Analytics 
+# Diabetes Risk Analytics 
 
-#Overview :
+# Overview :
 
 This project analyzes healthcare and lifestyle factors that contribute to diabetes risk. The project uses data analytics and machine learning techniques to identify important risk factors associated with diabetes and predict diabetes levels based on health indicators.
 
-#Objectives :
+# Objectives :
 
 Analyze healthcare and lifestyle data related to diabetes.
 Identify major factors affecting diabetes risk.
@@ -15,7 +15,7 @@ Predict diabetes levels using Machine Learning.
 Support early diabetes risk identification through data analysis.
 
 
-#Technologies Used :
+# Technologies Used :
 
 Python
 Pandas
@@ -25,7 +25,7 @@ Scikit-Learn
 Jupyter Notebook
 
 
-#Dataset Features :
+# Dataset Features :
 
 Diabetes_012
 HighBP
@@ -51,18 +51,18 @@ Education
 Income
 
 
-#Machine Learning Model :
+# Machine Learning Model :
 Random Forest Classifier
 
 Random Forest Classifier was used to predict diabetes levels based on health indicators such as BMI, blood pressure, cholesterol, smoking habits, physical activity, and age.
 
-#Model Performance :
+# Model Performance :
 
 Algorithm: Random Forest Classifier
 Accuracy Score: 84.76%
 
 
-#Project Workflow :
+# Project Workflow :
 
 Data Collection
 Data Cleaning
@@ -75,9 +75,9 @@ Diabetes Prediction
 Result Analysis
 
 
-#Results & Analysis :
+# Results & Analysis :
 
-#1. Diabetes Distribution Analysis :
+# 1. Diabetes Distribution Analysis :
 
 
 This chart shows the distribution of individuals with no diabetes, prediabetes, and diabetes.
@@ -91,7 +91,7 @@ Observation: Most individuals belong to the No Diabetes category, while fewer in
 
 
 
-#2. BMI Category Distribution :
+# 2. BMI Category Distribution :
 
 
 This chart classifies individuals into Underweight, Normal, Overweight, and Obese categories based on BMI values.
@@ -103,7 +103,7 @@ Observation: A large number of individuals fall into the Overweight and Obese ca
 
 
 
-#3.Age Distribution :
+# 3.Age Distribution :
 
 
 This chart shows the distribution of individuals across different age groups in the dataset.
@@ -116,7 +116,7 @@ Observation: Most records belong to middle-aged and older adults. The number of 
 
 
 
-#4. High Blood Pressure vs Diabetes :
+# 4. High Blood Pressure vs Diabetes :
 
 
 This visualization shows the relationship between high blood pressure and diabetes occurrence.
@@ -129,7 +129,7 @@ Observation: Individuals with high blood pressure have a higher percentage of di
 
 
 
-#5. Smoking vs Diabetes :
+# 5. Smoking vs Diabetes :
 
 
 This chart analyzes the impact of smoking habits on diabetes occurrence.
@@ -142,7 +142,7 @@ Observation: Smoking is associated with a higher diabetes prevalence compared to
 
 
 
-#6. Physical Activity vs Diabetes :
+# 6. Physical Activity vs Diabetes :
 
 
 This visualization compares diabetes occurrence among physically active and inactive individuals.
@@ -155,7 +155,7 @@ Observation: Individuals with regular physical activity tend to have lower diabe
 
 
 
-#7. General Health vs Diabetes :
+# 7. General Health vs Diabetes :
 
 
 This visualization analyzes how general health condition relates to diabetes occurrence.
@@ -168,6 +168,6 @@ Observation: Poor general health is associated with a higher percentage of diabe
 
 
 
-Conclusion :
+# Conclusion :
 
 This project analyzes healthcare and lifestyle data to understand the major factors contributing to diabetes risk. The analysis indicates that BMI, high blood pressure, cholesterol levels, smoking habits, physical activity, and general health are strongly associated with diabetes occurrence. The Random Forest Classifier provides effective predictions and supports early diabetes risk identification.
