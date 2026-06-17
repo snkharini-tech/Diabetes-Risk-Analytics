@@ -1,4 +1,4 @@
-<img width="1142" height="582" alt="image" src="https://github.com/user-attachments/assets/858a06a2-dd68-443c-9b3b-cf0ff95b695d" /># Diabetes-Risk-Analytics
+Diabetes Risk Analytics 
 
 Overview :
 
@@ -87,6 +87,7 @@ Observation: Most individuals belong to the No Diabetes category, while fewer in
 
 
 
+
 2. BMI Category Distribution
 
 This chart classifies individuals into Underweight, Normal, Overweight, and Obese categories based on BMI values.
@@ -94,12 +95,16 @@ Observation: A large number of individuals fall into the Overweight and Obese ca
 
 <img width="1022" height="567" alt="Screenshot 2026-06-17 092856" src="https://github.com/user-attachments/assets/f1a68cb4-a317-4952-9e1f-877ca4a55d2b" />
 
+
+
 3.Age Distribution
 
 This chart shows the distribution of individuals across different age groups in the dataset.
 Observation: Most records belong to middle-aged and older adults. The number of diabetes cases tends to increase with age, indicating that age is an important factor associated with diabetes risk. Older age groups show a higher concentration of individuals compared to younger age groups.
 
 <img width="1020" height="571" alt="Screenshot 2026-06-17 093716" src="https://github.com/user-attachments/assets/5f84b544-d6c5-4275-96a4-15a17c67e17b" />
+
+
 
 
 4. High Blood Pressure vs Diabetes
@@ -110,12 +115,16 @@ Observation: Individuals with high blood pressure have a higher percentage of di
 <img width="1001" height="562" alt="Screenshot 2026-06-17 093013" src="https://github.com/user-attachments/assets/4ecc801f-618d-4ada-b0df-035b4f8afa85" />
 
 
+
+
 5. Smoking vs Diabetes
 
 This chart analyzes the impact of smoking habits on diabetes occurrence.
 Observation: Smoking is associated with a higher diabetes prevalence compared to non-smokers.
 
 <img width="1212" height="565" alt="Screenshot 2026-06-17 093142" src="https://github.com/user-attachments/assets/c0a0a8e6-2998-4813-b90d-ee36fd032385" />
+
+
 
 
 6. Physical Activity vs Diabetes
@@ -126,12 +135,16 @@ Observation: Individuals with regular physical activity tend to have lower diabe
 <img width="1027" height="598" alt="Screenshot 2026-06-17 093307" src="https://github.com/user-attachments/assets/611e3e8f-f0c3-4108-8b67-d36f8fbedb81" />
 
 
+
+
 7. General Health vs Diabetes
 
 This visualization analyzes how general health condition relates to diabetes occurrence.
 Observation: Poor general health is associated with a higher percentage of diabetes cases.
 
 <img width="1052" height="587" alt="Screenshot 2026-06-17 093427" src="https://github.com/user-attachments/assets/6c9785ae-9f04-4584-ae0f-c4c082039075" />
+
+
 
 
 Conclusion :
